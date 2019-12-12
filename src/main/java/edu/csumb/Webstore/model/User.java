@@ -25,8 +25,8 @@ public class User
     public String username;
     public String password;
 
-    public ArrayList<String> createdId = new ArrayList();
-    public ArrayList<String> bookmarkedId = new ArrayList();
+    public ArrayList<String> createdId = new ArrayList<String>();
+    public ArrayList<String> bookmarkedId = new ArrayList<String>();
 
     public User(){
         username = "";
