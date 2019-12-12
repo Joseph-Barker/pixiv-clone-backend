@@ -4,13 +4,13 @@
 package edu.csumb.Webstore.model;
 
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Set;
+//import java.util.HashMap;
+//import java.util.Map;
+//import java.util.Set;
 
 import org.springframework.data.annotation.Id;
 
-import io.swagger.annotations.ApiModelProperty;
+//import io.swagger.annotations.ApiModelProperty;
 
 public class User
 {

@@ -25,7 +25,7 @@ public class Image
     String title;
     String imageURL;
     String description;
-    ArrayList<String> Tags;
+    ArrayList<String> Tags = new ArrayList<String>();
 
     Image(){
         imageURL = "";

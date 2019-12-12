@@ -5,8 +5,8 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 import org.springframework.stereotype.Repository;
 import edu.csumb.Webstore.model.Image;
-import java.util.List;
-import org.springframework.data.repository.query.Param;
+//import java.util.List;
+//import org.springframework.data.repository.query.Param;
 
 //Remember to denote what type of folder it is!
 @Repository
